@@ -3,3 +3,6 @@ build/
 *.class
 .DS_Store
 gradlew.bat*.iml
+gradlew.bat
+.idea/
+*.iml
