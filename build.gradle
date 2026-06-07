@@ -30,6 +30,6 @@ dependencies {
 
 bootRun {
     environment 'GOOGLE_GENAI_USE_VERTEXAI', 'TRUE'
-    environment 'GOOGLE_CLOUD_PROJECT', 'smart-assist-492607'
+    environment 'GOOGLE_CLOUD_PROJECT', 'travel-agent-7jun'
     environment 'GOOGLE_CLOUD_REGION', 'us-central1'
 }
